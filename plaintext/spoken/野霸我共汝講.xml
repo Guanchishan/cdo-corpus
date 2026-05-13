@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd" Conversation="true" Property="spoken">
+	<Speaker>
+		<SpeakerId>40</SpeakerId>
+	</Speaker>
+		<Translator>
+		<Name>关彳山</Name>
+	</Translator>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence">
+		<SecLv2 Text="野" YngPing="ia55" Section="Character"/>
+		<SecLv2 Text="霸" YngPing="wa21" Section="Character"/>
+		<SecLv2 Text="," Section="Punctuation"/>
+		<SecLv2 Text="我" YngPing="nguai33" Section="Character"/>
+		<SecLv2 Text="共" YngPing="gooyng242" Section="Character"/>
+		<SecLv2 Text="汝" YngPing="ny33" Section="Character"/>
+		<SecLv2 Text="講" YngPing="goung33" Section="Character"/>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence">
+		<SecLv2 Text="汝" YngPing="ny33" Section="Character"/>
+		<SecLv2 Text="共" YngPing="gooyng242" Section="Character"/>
+		<SecLv2 Text="福州" YngPing="huk21 ziu55" Section="Word"/>
+		<SecLv2 Text="粉款" YngPing="hung24 uang33" Section="Word"/>
+		<SecLv2 Text="有無" YngPing="ou242 mo0" Section="Word"/>
+		<SecLv2 Text="小喫" Iso639-1="zh" Iso639-3="cmn" Section="Word"/>
+		<SecLv2 Text="復" YngPing="bu53" Section="Character"/>
+		<SecLv2 Text="有" YngPing="ou242" Section="Character"/>
+		<SecLv2 Text="仂囝" YngPing="nik24-giang33" Section="Word"/>
+		<SecLv2 Text="像" YngPing="cuong242" Section="Character"/>
+		<SecLv2 Text="復" YngPing="bu21" Section="Character"/>
+		<SecLv2 Text="儥" YngPing="me53" Section="Character"/>
+		<SecLv2 Text="蜀" YngPing="loh21" Section="Character"/>
+		<SecLv2 Text="樣" YngPing="yong242" Section="Character"/>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence">
+		<SecLv2 Text="嚡" YngPing="e0" Section="Character"/>
+		<SecLv2 Text="," Section="Punctuation"/>
+		<SecLv2 Text="都" YngPing="du21" Section="Character"/>
+		<SecLv2 Text="是" YngPing="li53" Section="Character"/>
+		<SecLv2 Text="號" YngPing="oo242" Section="Character"/>
+		<SecLv2 Text="芋粿" YngPing="uo53 ui33" Section="Word"/>
+		<SecLv2 Text="," Section="Punctuation"/>
+		<SecLv2 Text="閩清" Iso639-1="zh" Iso639-3="cmn" Section="Word"/>
+		<SecLv2 Text="其" YngPing="i0" Section="Character"/>
+		<SecLv2 Text="芋粿" YngPing="uo53 ui33" Section="Word"/>
+		<SecLv2 Text="共" YngPing="geoyng21" Section="Character"/>
+		<SecLv2 Text="福州" YngPing="huk21 ziu55" Section="Word"/>
+		<SecLv2 Text="其" YngPing="i0" Section="Character"/>
+		<SecLv2 Text="芋粿" YngPing="uo53 ui33" Section="Word"/>
+		<SecLv2 Text="完全" YngPing="uong55 zuong53" Section="Word"/>
+		<SecLv2 Text="儥" YngPing="me53" Section="Character"/>
+		<SecLv2 Text="蜀" YngPing="loh21" Section="Character"/>
+		<SecLv2 Text="樣" YngPing="yong242" Section="Character"/>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence">
+		<SecLv2 Text="伊" YngPing="i55" Section="Character"/>
+		<SecLv2 Text="真其" YngPing="zing55 ngi0" Section="Word"/>
+		<SecLv2 Text="是" YngPing="sie0" Section="Character"/>
+		<SecLv2 Text="芋" YngPing="uo242" Section="Character"/>
+		<SecLv2 Text="做" YngPing="zoo21" Section="Character"/>
+		<SecLv2 Text="其" YngPing="i0" Section="Character"/>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+	<Source>传说中的以大. 小众景点第12期！这次来到闽清....[EB/OL]. (2026-05-13)[2026-05-13]. https://weixin.qq.com/sph/A2NBUpmDI3.</Source>
+</Corpus>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd" Conversation="true" Property="spoken">
+	<Speaker>
+		<SpeakerId>40</SpeakerId>
+	</Speaker>
+	<Speaker>
+		<SpeakerId>41</SpeakerId>
+	</Speaker>
+		<Translator>
+		<Name>关彳山</Name>
+	</Translator>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence">
+		<Speaker>
+			<SpeakerId>40</SpeakerId>
+		</Speaker>
+		<SecLv2 Text="芋粿" YngPing="uo53 ui33" Section="Word"/>
+		<SecLv2 Text="!" Section="Punctuation"/>
+		<SecLv2 Text="芋粿" YngPing="uo53 ui" Section="Word"/>
+		<SecLv2 Text="吓" YngPing="a0" Section="Character"/>
+		<SecLv2 Text="?" Section="Punctuation"/>
+	</SecLv1>
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Section="Sentence">
+		<Speaker>
+			<SpeakerId>41</SpeakerId>
+		</Speaker>
+		<SecLv2 Text="野" YngPing="ia21" Section="Character"/>
+		<SecLv2 Text="好" YngPing="o21" Section="Character"/>
+		<SecLv2 Text="食" YngPing="lieh5" Section="Character"/>
+		<SecLv2 Text="!" Section="Punctuation"/>
+	</SecLv1>
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence">
+		<Translation TransText="哎! 你這有, 有沒有炸好的了? 哈哈." Iso639-1="zh" Iso639-3="cmn"/>
+		<Speaker>
+			<SpeakerId>40</SpeakerId>
+		</Speaker>
+		<SecLv2 Text="嚡" YngPing="e0" Section="Character"/>
+		<SecLv2 Text="," Section="Punctuation"/>
+		<SecLv2 Text="汝" YngPing="ny33" Section="Character"/>
+		<SecLv2 Text="嚽" YngPing="zui53" Section="Character"/>
+		<SecLv2 Text="有" YngPing="u21" Section="Character"/>
+		<SecLv2 Text="," Section="Punctuation"/>
+		<SecLv2 Text="有" YngPing="ou242" Section="Character"/>
+		<SecLv2 Text="無" YngPing="mo53" Section="Character"/>
+		<SecLv2 Text="烰" YngPing="pu53" Section="Character"/>
+		<SecLv2 Text="好" YngPing="ho33" Section="Character"/>
+		<SecLv2 Text="其" YngPing="i0" Section="Character"/>
+		<SecLv2 Text="去" YngPing="o0" Section="Character"/>
+		<SecLv2 Text="?" Section="Punctuation"/>
+		<SecLv2 Text="嗯" YngPing="n0" Section="Character"/>
+		<SecLv2 Text="哼" YngPing="hng0" Section="Character"/>
+		<SecLv2 Text="哼" YngPing="hng0" Section="Character"/>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+	<Source>传说中的以大. 小众景点第12期！这次来到闽清....[EB/OL]. (2026-05-13)[2026-05-13]. https://weixin.qq.com/sph/A2NBUpmDI3.</Source>
+</Corpus>
