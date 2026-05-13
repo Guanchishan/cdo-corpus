@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd" Conversation="true" Property="spoken">
+	<Speaker>
+		<SpeakerId>40</SpeakerId>
+	</Speaker>
+		<Translator>
+		<Name>关彳山</Name>
+	</Translator>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence">
+		<SecLv2 Text="我" YngPing="nguai33" Section="Character"/>
+		<SecLv2 Text="共" YngPing="gooyng242" Section="Character"/>
+		<SecLv2 Text="大家儂" YngPing="dai21 a55 neoyng53" Section="Word"/>
+		<SecLv2 Text="講" YngPing="goung33" Section="Character"/>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+	<SecLv1 Section="Sentence">
+		<SecLv2 Text="這" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="zi21" Section="Character"/>
+		<SecLv2 Text="邊" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="meing55" Section="Character"/>
+		<SecLv2 Text="," Section="Punctuation"/>
+		<SecLv2 Text="嚡" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="e0" Section="Character"/>
+		<SecLv2 Text="..." Section="Punctuation"/>
+		<SecLv2 Text="名" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="miang53" Section="Character"/>
+		<SecLv2 Text="號" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="hoo242" Section="Character"/>
+		<SecLv2 Text="𡅏" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="le0" Section="Character"/>
+		<SecLv2 Text="七疊溫泉" Iso639-1="zh" Iso639-3="cmn" Section="Word"/>
+		<SecLv2 Text="的" Iso639-1="zh" Iso639-3="cmn" Section="Character"/>
+		<SecLv2 Text="景區" Iso639-1="zh" Iso639-3="cmn" Section="Word"/>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+	<Source>传说中的以大. 小众景点第12期！这次来到闽清....[EB/OL]. (2026-05-13)[2026-05-13]. https://weixin.qq.com/sph/A2NBUpmDI3.</Source>
+</Corpus>

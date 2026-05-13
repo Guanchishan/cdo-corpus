@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd" Conversation="false" Property="spoken">
+	<Speaker>
+		<SpeakerId>40</SpeakerId>
+	</Speaker>
+		<Translator>
+		<Name>关彳山</Name>
+	</Translator>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence">
+		<SecLv2 Text="嚽" YngPing="zui53" Section="Character"/>
+		<SecLv2 Text="名" YngPing="miang53" Section="Character"/>
+		<SecLv2 Text="號" YngPing="hoo242" Section="Character"/>
+		<SecLv2 Text="世乇" YngPing="sie53 nooh24" Section="Word"/>
+		<SecLv2 Text="?" Section="Punctuation"/>
+	</SecLv1>
+	<Source>传说中的以大. 小众景点第12期！这次来到闽清....[EB/OL]. (2026-05-13)[2026-05-13]. https://weixin.qq.com/sph/A2NBUpmDI3.</Source>
+</Corpus>

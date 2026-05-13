@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd" Conversation="true" Property="spoken">
+	<Speaker>
+		<SpeakerId>40</SpeakerId>
+	</Speaker>
+	<Speaker>
+		<SpeakerId>42</SpeakerId>
+	</Speaker>
+		<Translator>
+		<Name>关彳山</Name>
+	</Translator>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence">
+		<Translation TransText="這個, 這個 怎麼 賣? 這個." Iso639-1="zh" Iso639-3="cmn"/>
+		<Speaker>
+			<SpeakerId>40</SpeakerId>
+		</Speaker>
+		<SecLv2 Text="嚽" YngPing="zui53" Section="Character"/>
+		<SecLv2 Text="," Section="Punctuation"/>
+		<SecLv2 Text="嚽" YngPing="zui53" Section="Character"/>
+		<SecLv2 Text="蔣樣" YngPing="zuong242" Section="Word"/>
+		<SecLv2 Text="賣" YngPing="ma242" Section="Character"/>
+		<SecLv2 Text="?" Section="Punctuation"/>
+		<SecLv2 Text="嚽" YngPing="zui53" Section="Character"/>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+	<SecLv1 Iso639-1="zh" Iso639-3="cmn" Section="Sentence">
+		<Speaker>
+			<SpeakerId>42</SpeakerId>
+		</Speaker>
+		<SecLv2 Text="七塊" Iso639-1="zh" Iso639-3="cmn" Section="Word"/>
+		<SecLv2 Text="!" Section="Punctuation"/>
+	</SecLv1>
+	<Source>传说中的以大. 小众景点第12期！这次来到闽清....[EB/OL]. (2026-05-13)[2026-05-13]. https://weixin.qq.com/sph/A2NBUpmDI3.</Source>
+</Corpus>
