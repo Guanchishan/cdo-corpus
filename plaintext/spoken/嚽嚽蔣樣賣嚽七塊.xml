@@ -13,7 +13,7 @@
 		<Name>关彳山</Name>
 	</Provider>
 	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence">
-		<Translation TransText="這個, 這個 怎麼 賣? 這個." Iso639-1="zh" Iso639-3="cmn"/>
+		<Translation TransText="這個, 這個怎麼賣? 這個." Iso639-1="zh" Iso639-3="cmn"/>
 		<Speaker>
 			<SpeakerId>40</SpeakerId>
 		</Speaker>
